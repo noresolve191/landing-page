@@ -1,29 +1,18 @@
-.header {
-  display: flex;
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "roboto";
+}
+
+.first-section {
   background-color: #1f2937;
-  padding: 100px;
 }
-
-.header-logo {
-  font-size: 18px;
+#header-logo {
+  font-size: 24px;
   color: #f9faf8;
-  display: flex;
-}
-
-.list {
-  font-size: 18px;
-  color: #f9faf8;
-  display: flex;
-}
-s .hero {
-  display: flex;
-  align-items: flex-end;
-}
-
-.sign {
-  display: flex;
-}
-
-.imgs {
-  display: flex;
 }
