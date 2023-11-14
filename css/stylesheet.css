@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  background-color: #1f2937;
+}
+
+.header-logo {
+  font-size: 18px;
+  color: #f9faf8;
+  display: flex;
+}
+
+.list {
+  font-size: 18px;
+  color: #f9faf8;
+  display: flex;
+  align-items: start;
+}
+
+.hero {
+  display: flex;
+}
+
+.sign {
+  display: flex;
+}
+
+.imgs {
+  display: flex;
+}
