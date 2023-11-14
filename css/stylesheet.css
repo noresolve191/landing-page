@@ -1,6 +1,7 @@
 .header {
   display: flex;
   background-color: #1f2937;
+  padding: 100px;
 }
 
 .header-logo {
@@ -13,11 +14,10 @@
   font-size: 18px;
   color: #f9faf8;
   display: flex;
-  align-items: start;
 }
-
-.hero {
+s .hero {
   display: flex;
+  align-items: flex-end;
 }
 
 .sign {
